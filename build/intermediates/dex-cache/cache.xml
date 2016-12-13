@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_f9699bc72e5b751955ef0af0970347c8ddf81b9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_58b7c8f5026d3594c33b074083ad819a7827686b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c3af45cb0ab0e02666943345b0365cd362469ca1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4434e264619e516fd1554c7eb35171cd0201f2d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_c365d796d9c2bfa20fd05c545f4cce3d4a0f8770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3822d8026105ea46314413282602d61e16c4c5af">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9dafda8a9cb5d417074f8a1543d4517d39a5855e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_13a05374a8111d764a4893984cc4a2f6717699f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_d7f43e5fa49b1167eac75e6cd0fc2b9287e05eed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_66e23ecd32cc4b53664ca573d9f03ffb44413be9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_de313f3b1477585810fc9b0be79f091a1fe9ae7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_633b7dc203edbe8e9490f86e7d768f3ce7f2b2a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_0b2d8c3d8bd8efd9729afe44b039c794e5876f51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_21dad15e2ea32ae904a73ee63cef1d203888c805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_71f96a39282e26a34ecbc684bc398d8460a42e9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9172b968883061e58f7bbce181f6c72d12b67d79">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ca0b0fd1b5735beb08c37198cedec2d201c7dd22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_dce83f8c6eb9b8840d79e4b2192e45ff44a399e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/apple/Documents/workspace/andriod_studio/MyAppsportfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1e8b6b557e7a13bae094a2db041425cfcb6e4020/classes.dex" />
+    </item>
+
+</items>
